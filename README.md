@@ -1,3 +1,3 @@
-# exercise-html
+# rust-browser
 
-See [this page](https://browserbook.shift-js.info/chapters/parsing-html) for further information.
+https://browserbook.shift-js.info
